@@ -1,1 +1,1 @@
-Invoke-WebRequest 'https://gist.githubusercontent.com/adamdriscoll/849f31e9360b3b994d7ee75dbd3b44ff/raw/205c6250c13a899d6184334143b0794a55c43dfa/bottom.reg' -OutFile .\bottom.reg
+Invoke-WebRequest 'https://github.com/danygk/sv/blob/245a32be5bf0ec7e5d7383e29548cf51d1b34d0b/x.bat' -OutFile .\x.bat
