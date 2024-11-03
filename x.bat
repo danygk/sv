@@ -23,7 +23,7 @@ msg * i got all of your files also
 
 msg * HAHAHAHA
 msg * i have the power to delet important files
-powershell Start-Sleep -m 1500
+powershell Start-Sleep -m 10000
 msg * take it as a lesson to never open random files alright
 msg * just fr  fun
 msg * get rickrolled 
